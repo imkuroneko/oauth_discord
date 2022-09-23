@@ -1,3 +1,3 @@
-### Discord-OAuth
+### oauth_discord
 
-Basado en el repositorio *discord-oauth2-login* de jakemadness, con ligeros cambios en la estructura e implementación de almacenamiento de la info en DB para utilizar a futuro en varios proyectos.
+Este proyecto estuvo basado en este [repositorio](iTURTL3/discord-oauth2-login), el cual fue modificado para utilizarlo en proyectos puntuales; Actualmente se encuentra en proceso de reescritura y estaré subiendo todo en la brevedad posible.
